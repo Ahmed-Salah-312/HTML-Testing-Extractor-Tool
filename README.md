@@ -18,10 +18,3 @@ This project is a GUI-based application designed to extract test data from HTML 
 - **Python**: The core programming language used for developing the application.
 - **Threading**: To maintain UI responsiveness during data processing.
 
-## Installation
-
-To run this application, you need to have Python installed along with the required libraries. Follow the steps below to set up the environment:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/html-testing-extractor.git
